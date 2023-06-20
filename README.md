@@ -1,2 +1,2 @@
-# CarDoctor-
+# CarDoctor
 Find the Car Mechanic
